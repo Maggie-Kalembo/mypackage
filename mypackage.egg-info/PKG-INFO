@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Maggie9904/mypackage
+Author: Maggie Kalembo
+Author-email: kalembomaggie@gmail.com
+License: MIT
+
+# mypackage
+This library was created as an example of how to publish your own Python package.
+
+## building this package locally
+'python setup.py sdist'
+
+## installimng this package from GitHub
+'pip install git+'
+
+## updating this package from GitHub
+'pip install --upgrade git+'
